@@ -3,14 +3,14 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Distrbuted-System">
-          <img src="https://imgur.com/3Ow9UpH.png?w=996" alt="Logo" width="450" height="300">
+          <img src="https://imgur.com/eKaqkZ9.png?w=996" alt="Logo" width="450" height="300">
 
   </a>
     
-<h3 align="center">parallel-programming</h3>
+<h3 align="center">Distributed system</h3>
 
   <p align="center">
-parallel-programming-Pthreads-MPI
+Distributed system Tasks
     <br/>
     <br/>
   </p>
